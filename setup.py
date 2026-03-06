@@ -37,6 +37,7 @@ setup(
     install_requires=[
         "requests>=2.25.0",
     ],
+    keywords="workiz api wrapper rest client jobs leads team management",
     extras_require={
         "dev": [
             "pytest>=6.0",
